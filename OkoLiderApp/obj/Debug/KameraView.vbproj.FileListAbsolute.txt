@@ -1,0 +1,250 @@
+c:\users\pkrystek\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\KameraView.exe.config
+c:\users\pkrystek\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\KameraView.exe
+c:\users\pkrystek\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\KameraView.pdb
+c:\users\pkrystek\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\KameraView.xml
+c:\users\pkrystek\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\KameraView.Form1.resources
+c:\users\pkrystek\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\KameraView.Resources.resources
+c:\users\pkrystek\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\KameraView.vbproj.GenerateResource.Cache
+c:\users\pkrystek\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\KameraView.exe
+c:\users\pkrystek\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\KameraView.xml
+c:\users\pkrystek\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\KameraView.pdb
+c:\users\pkrystek\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\KameraView.vbprojResolveAssemblyReference.cache
+P:\# Projekty\KameraView\Zrodlo\WindowsApplication2\WindowsApplication2\bin\Debug\KameraView.exe.config
+P:\# Projekty\KameraView\Zrodlo\WindowsApplication2\WindowsApplication2\bin\Debug\KameraView.exe
+P:\# Projekty\KameraView\Zrodlo\WindowsApplication2\WindowsApplication2\bin\Debug\KameraView.pdb
+P:\# Projekty\KameraView\Zrodlo\WindowsApplication2\WindowsApplication2\bin\Debug\KameraView.xml
+P:\# Projekty\KameraView\Zrodlo\WindowsApplication2\WindowsApplication2\obj\Debug\KameraView.vbprojResolveAssemblyReference.cache
+P:\# Projekty\KameraView\Zrodlo\WindowsApplication2\WindowsApplication2\obj\Debug\KameraView.Form1.resources
+P:\# Projekty\KameraView\Zrodlo\WindowsApplication2\WindowsApplication2\obj\Debug\KameraView.Resources.resources
+P:\# Projekty\KameraView\Zrodlo\WindowsApplication2\WindowsApplication2\obj\Debug\KameraView.vbproj.GenerateResource.Cache
+P:\# Projekty\KameraView\Zrodlo\WindowsApplication2\WindowsApplication2\obj\Debug\KameraView.exe
+P:\# Projekty\KameraView\Zrodlo\WindowsApplication2\WindowsApplication2\obj\Debug\KameraView.xml
+P:\# Projekty\KameraView\Zrodlo\WindowsApplication2\WindowsApplication2\obj\Debug\KameraView.pdb
+P:\# Projekty\KameraView\Zrodlo\WindowsApplication2\WindowsApplication2\bin\Debug\Interop.AXVLC.dll
+P:\# Projekty\KameraView\Zrodlo\WindowsApplication2\WindowsApplication2\bin\Debug\AxInterop.AXVLC.dll
+P:\# Projekty\KameraView\Zrodlo\WindowsApplication2\WindowsApplication2\obj\Debug\Interop.AXVLC.dll
+P:\# Projekty\KameraView\Zrodlo\WindowsApplication2\WindowsApplication2\obj\Debug\AxInterop.AXVLC.dll
+P:\# Projekty\KameraView\Zrodlo\WindowsApplication2\WindowsApplication2\obj\Debug\KameraView.vbproj.ResolveComReference.cache
+P:\# Projekty\KameraView\Zrodlo\WindowsApplication2\WindowsApplication2\obj\Debug\KameraView.KameraStream.resources
+P:\# Projekty\KameraView\Zrodlo\WindowsApplication2\WindowsApplication2\obj\Debug\KameraView.Dysk.resources
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\WindowsApplication2\bin\Debug\KameraView.exe.config
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\WindowsApplication2\bin\Debug\KameraView.exe
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\WindowsApplication2\bin\Debug\KameraView.pdb
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\WindowsApplication2\bin\Debug\KameraView.xml
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\WindowsApplication2\bin\Debug\Interop.AXVLC.dll
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\WindowsApplication2\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\WindowsApplication2\obj\Debug\KameraView.vbprojResolveAssemblyReference.cache
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\WindowsApplication2\obj\Debug\Interop.AXVLC.dll
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\WindowsApplication2\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\WindowsApplication2\obj\Debug\KameraView.vbproj.ResolveComReference.cache
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\WindowsApplication2\obj\Debug\KameraView.KameraStream.resources
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\WindowsApplication2\obj\Debug\KameraView.Dysk.resources
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\WindowsApplication2\obj\Debug\KameraView.Form1.resources
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\WindowsApplication2\obj\Debug\KameraView.Resources.resources
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\WindowsApplication2\obj\Debug\KameraView.vbproj.GenerateResource.Cache
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\WindowsApplication2\obj\Debug\KameraView.exe
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\WindowsApplication2\obj\Debug\KameraView.xml
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\WindowsApplication2\obj\Debug\KameraView.pdb
+D:\KameraView Zrodlo\WindowsApplication2\bin\Debug\KameraView.exe.config
+D:\KameraView Zrodlo\WindowsApplication2\bin\Debug\KameraView.exe
+D:\KameraView Zrodlo\WindowsApplication2\bin\Debug\KameraView.pdb
+D:\KameraView Zrodlo\WindowsApplication2\bin\Debug\KameraView.xml
+D:\KameraView Zrodlo\WindowsApplication2\bin\Debug\Interop.AXVLC.dll
+D:\KameraView Zrodlo\WindowsApplication2\bin\Debug\AxInterop.AXVLC.dll
+D:\KameraView Zrodlo\WindowsApplication2\obj\Debug\Interop.AXVLC.dll
+D:\KameraView Zrodlo\WindowsApplication2\obj\Debug\AxInterop.AXVLC.dll
+D:\KameraView Zrodlo\WindowsApplication2\obj\Debug\KameraView.vbproj.ResolveComReference.cache
+D:\KameraView Zrodlo\WindowsApplication2\obj\Debug\KameraView.KameraStream.resources
+D:\KameraView Zrodlo\WindowsApplication2\obj\Debug\KameraView.Dysk.resources
+D:\KameraView Zrodlo\WindowsApplication2\obj\Debug\KameraView.Form1.resources
+D:\KameraView Zrodlo\WindowsApplication2\obj\Debug\KameraView.Resources.resources
+D:\KameraView Zrodlo\WindowsApplication2\obj\Debug\KameraView.vbproj.GenerateResource.Cache
+D:\KameraView Zrodlo\WindowsApplication2\obj\Debug\KameraView.vbproj.CoreCompileInputs.cache
+D:\KameraView Zrodlo\WindowsApplication2\obj\Debug\KameraView.exe
+D:\KameraView Zrodlo\WindowsApplication2\obj\Debug\KameraView.xml
+D:\KameraView Zrodlo\WindowsApplication2\obj\Debug\KameraView.pdb
+D:\KameraView Zrodlo Nowe moje\WindowsApplication2\bin\Debug\KameraView.exe.config
+D:\KameraView Zrodlo Nowe moje\WindowsApplication2\bin\Debug\KameraView.exe
+D:\KameraView Zrodlo Nowe moje\WindowsApplication2\bin\Debug\KameraView.pdb
+D:\KameraView Zrodlo Nowe moje\WindowsApplication2\bin\Debug\KameraView.xml
+D:\KameraView Zrodlo Nowe moje\WindowsApplication2\bin\Debug\Interop.AXVLC.dll
+D:\KameraView Zrodlo Nowe moje\WindowsApplication2\bin\Debug\AxInterop.AXVLC.dll
+D:\KameraView Zrodlo Nowe moje\WindowsApplication2\obj\Debug\Interop.AXVLC.dll
+D:\KameraView Zrodlo Nowe moje\WindowsApplication2\obj\Debug\AxInterop.AXVLC.dll
+D:\KameraView Zrodlo Nowe moje\WindowsApplication2\obj\Debug\KameraView.vbproj.ResolveComReference.cache
+D:\KameraView Zrodlo Nowe moje\WindowsApplication2\obj\Debug\KameraView.KameraStream.resources
+D:\KameraView Zrodlo Nowe moje\WindowsApplication2\obj\Debug\KameraView.Dysk.resources
+D:\KameraView Zrodlo Nowe moje\WindowsApplication2\obj\Debug\KameraView.Form1.resources
+D:\KameraView Zrodlo Nowe moje\WindowsApplication2\obj\Debug\KameraView.Resources.resources
+D:\KameraView Zrodlo Nowe moje\WindowsApplication2\obj\Debug\KameraView.vbproj.GenerateResource.Cache
+D:\KameraView Zrodlo Nowe moje\WindowsApplication2\obj\Debug\KameraView.vbproj.CoreCompileInputs.cache
+D:\KameraView Zrodlo Nowe moje\WindowsApplication2\obj\Debug\KameraView.exe
+D:\KameraView Zrodlo Nowe moje\WindowsApplication2\obj\Debug\KameraView.xml
+D:\KameraView Zrodlo Nowe moje\WindowsApplication2\obj\Debug\KameraView.pdb
+C:\Users\pkrystek\Desktop\ojca\WindowsApplication2\bin\Debug\KameraView.exe.config
+C:\Users\pkrystek\Desktop\ojca\WindowsApplication2\bin\Debug\KameraView.exe
+C:\Users\pkrystek\Desktop\ojca\WindowsApplication2\bin\Debug\KameraView.pdb
+C:\Users\pkrystek\Desktop\ojca\WindowsApplication2\bin\Debug\KameraView.xml
+C:\Users\pkrystek\Desktop\ojca\WindowsApplication2\bin\Debug\Interop.AXVLC.dll
+C:\Users\pkrystek\Desktop\ojca\WindowsApplication2\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\pkrystek\Desktop\ojca\WindowsApplication2\obj\Debug\KameraView.vbprojResolveAssemblyReference.cache
+C:\Users\pkrystek\Desktop\ojca\WindowsApplication2\obj\Debug\Interop.AXVLC.dll
+C:\Users\pkrystek\Desktop\ojca\WindowsApplication2\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\pkrystek\Desktop\ojca\WindowsApplication2\obj\Debug\KameraView.vbproj.ResolveComReference.cache
+C:\Users\pkrystek\Desktop\ojca\WindowsApplication2\obj\Debug\KameraView.KameraStream.resources
+C:\Users\pkrystek\Desktop\ojca\WindowsApplication2\obj\Debug\KameraView.Dysk.resources
+C:\Users\pkrystek\Desktop\ojca\WindowsApplication2\obj\Debug\KameraView.Form1.resources
+C:\Users\pkrystek\Desktop\ojca\WindowsApplication2\obj\Debug\KameraView.Resources.resources
+C:\Users\pkrystek\Desktop\ojca\WindowsApplication2\obj\Debug\KameraView.vbproj.GenerateResource.Cache
+C:\Users\pkrystek\Desktop\ojca\WindowsApplication2\obj\Debug\KameraView.exe
+C:\Users\pkrystek\Desktop\ojca\WindowsApplication2\obj\Debug\KameraView.xml
+C:\Users\pkrystek\Desktop\ojca\WindowsApplication2\obj\Debug\KameraView.pdb
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\ojca\WindowsApplication2\bin\Debug\KameraView.exe.config
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\ojca\WindowsApplication2\bin\Debug\KameraView.exe
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\ojca\WindowsApplication2\bin\Debug\KameraView.pdb
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\ojca\WindowsApplication2\bin\Debug\KameraView.xml
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\ojca\WindowsApplication2\bin\Debug\Interop.AXVLC.dll
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\ojca\WindowsApplication2\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\ojca\WindowsApplication2\obj\Debug\KameraView.vbprojResolveAssemblyReference.cache
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\ojca\WindowsApplication2\obj\Debug\Interop.AXVLC.dll
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\ojca\WindowsApplication2\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\ojca\WindowsApplication2\obj\Debug\KameraView.vbproj.ResolveComReference.cache
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\ojca\WindowsApplication2\obj\Debug\KameraView.KameraStream.resources
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\ojca\WindowsApplication2\obj\Debug\KameraView.Dysk.resources
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\ojca\WindowsApplication2\obj\Debug\KameraView.Form5.resources
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\ojca\WindowsApplication2\obj\Debug\KameraView.Form1.resources
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\ojca\WindowsApplication2\obj\Debug\KameraView.Resources.resources
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\ojca\WindowsApplication2\obj\Debug\KameraView.vbproj.GenerateResource.Cache
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\ojca\WindowsApplication2\obj\Debug\KameraView.exe
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\ojca\WindowsApplication2\obj\Debug\KameraView.xml
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\ojca\WindowsApplication2\obj\Debug\KameraView.pdb
+C:\Users\pkrystek\Desktop\ojca\WindowsApplication2\obj\Debug\KameraView.Form5.resources
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\KameraView 1-3-5\WindowsApplication2\obj\Debug\KameraView.vbprojResolveAssemblyReference.cache
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\KameraView 1-3-5\WindowsApplication2\obj\Debug\Interop.AXVLC.dll
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\KameraView 1-3-5\WindowsApplication2\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\KameraView 1-3-5\WindowsApplication2\obj\Debug\KameraView.vbproj.ResolveComReference.cache
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\KameraView 1-3-5\WindowsApplication2\obj\Debug\KameraView.KameraStream.resources
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\KameraView 1-3-5\WindowsApplication2\obj\Debug\KameraView.Dysk.resources
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\KameraView 1-3-5\WindowsApplication2\obj\Debug\KameraView.Form5.resources
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\KameraView 1-3-5\WindowsApplication2\obj\Debug\KameraView.Form1.resources
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\KameraView 1-3-5\WindowsApplication2\obj\Debug\KameraView.Resources.resources
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\KameraView 1-3-5\WindowsApplication2\obj\Debug\KameraView.vbproj.GenerateResource.Cache
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\KameraView 1-3-5\WindowsApplication2\obj\Debug\KameraView.exe
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\KameraView 1-3-5\WindowsApplication2\obj\Debug\KameraView.xml
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\KameraView 1-3-5\WindowsApplication2\obj\Debug\KameraView.pdb
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\KameraView 1-3-5\WindowsApplication2\bin\Debug\KameraView.exe.config
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\KameraView 1-3-5\WindowsApplication2\bin\Debug\KameraView.exe
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\KameraView 1-3-5\WindowsApplication2\bin\Debug\KameraView.pdb
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\KameraView 1-3-5\WindowsApplication2\bin\Debug\KameraView.xml
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\KameraView 1-3-5\WindowsApplication2\bin\Debug\Interop.AXVLC.dll
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\KameraView 1-3-5\WindowsApplication2\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\KameraView 1-3-6\WindowsApplication2\bin\Debug\KameraView.exe.config
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\KameraView 1-3-6\WindowsApplication2\bin\Debug\KameraView.exe
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\KameraView 1-3-6\WindowsApplication2\bin\Debug\KameraView.pdb
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\KameraView 1-3-6\WindowsApplication2\bin\Debug\KameraView.xml
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\KameraView 1-3-6\WindowsApplication2\bin\Debug\Interop.AXVLC.dll
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\KameraView 1-3-6\WindowsApplication2\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\KameraView 1-3-6\WindowsApplication2\obj\Debug\KameraView.vbprojResolveAssemblyReference.cache
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\KameraView 1-3-6\WindowsApplication2\obj\Debug\Interop.AXVLC.dll
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\KameraView 1-3-6\WindowsApplication2\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\KameraView 1-3-6\WindowsApplication2\obj\Debug\KameraView.vbproj.ResolveComReference.cache
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\KameraView 1-3-6\WindowsApplication2\obj\Debug\KameraView.KameraStream.resources
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\KameraView 1-3-6\WindowsApplication2\obj\Debug\KameraView.Dysk.resources
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\KameraView 1-3-6\WindowsApplication2\obj\Debug\KameraView.Form5.resources
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\KameraView 1-3-6\WindowsApplication2\obj\Debug\KameraView.Form1.resources
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\KameraView 1-3-6\WindowsApplication2\obj\Debug\KameraView.Resources.resources
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\KameraView 1-3-6\WindowsApplication2\obj\Debug\KameraView.vbproj.GenerateResource.Cache
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\KameraView 1-3-6\WindowsApplication2\obj\Debug\KameraView.exe
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\KameraView 1-3-6\WindowsApplication2\obj\Debug\KameraView.xml
+C:\Users\pkrystek\Desktop\Kamera View Zrodla\KameraView 1-3-6\WindowsApplication2\obj\Debug\KameraView.pdb
+C:\Users\pkrystek\Desktop\Zrodla\Kamera View Zrodla\KameraView 1-3-6\WindowsApplication2\bin\Debug\KameraView.exe.config
+C:\Users\pkrystek\Desktop\Zrodla\Kamera View Zrodla\KameraView 1-3-6\WindowsApplication2\bin\Debug\KameraView.exe
+C:\Users\pkrystek\Desktop\Zrodla\Kamera View Zrodla\KameraView 1-3-6\WindowsApplication2\bin\Debug\KameraView.pdb
+C:\Users\pkrystek\Desktop\Zrodla\Kamera View Zrodla\KameraView 1-3-6\WindowsApplication2\bin\Debug\KameraView.xml
+C:\Users\pkrystek\Desktop\Zrodla\Kamera View Zrodla\KameraView 1-3-6\WindowsApplication2\bin\Debug\Interop.AXVLC.dll
+C:\Users\pkrystek\Desktop\Zrodla\Kamera View Zrodla\KameraView 1-3-6\WindowsApplication2\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\pkrystek\Desktop\Zrodla\Kamera View Zrodla\KameraView 1-3-6\WindowsApplication2\obj\Debug\KameraView.vbprojResolveAssemblyReference.cache
+C:\Users\pkrystek\Desktop\Zrodla\Kamera View Zrodla\KameraView 1-3-6\WindowsApplication2\obj\Debug\Interop.AXVLC.dll
+C:\Users\pkrystek\Desktop\Zrodla\Kamera View Zrodla\KameraView 1-3-6\WindowsApplication2\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\pkrystek\Desktop\Zrodla\Kamera View Zrodla\KameraView 1-3-6\WindowsApplication2\obj\Debug\KameraView.vbproj.ResolveComReference.cache
+C:\Users\pkrystek\Desktop\Zrodla\Kamera View Zrodla\KameraView 1-3-6\WindowsApplication2\obj\Debug\KameraView.KameraStream.resources
+C:\Users\pkrystek\Desktop\Zrodla\Kamera View Zrodla\KameraView 1-3-6\WindowsApplication2\obj\Debug\KameraView.Dysk.resources
+C:\Users\pkrystek\Desktop\Zrodla\Kamera View Zrodla\KameraView 1-3-6\WindowsApplication2\obj\Debug\KameraView.Form5.resources
+C:\Users\pkrystek\Desktop\Zrodla\Kamera View Zrodla\KameraView 1-3-6\WindowsApplication2\obj\Debug\KameraView.Form1.resources
+C:\Users\pkrystek\Desktop\Zrodla\Kamera View Zrodla\KameraView 1-3-6\WindowsApplication2\obj\Debug\KameraView.Resources.resources
+C:\Users\pkrystek\Desktop\Zrodla\Kamera View Zrodla\KameraView 1-3-6\WindowsApplication2\obj\Debug\KameraView.vbproj.GenerateResource.Cache
+C:\Users\pkrystek\Desktop\Zrodla\Kamera View Zrodla\KameraView 1-3-6\WindowsApplication2\obj\Debug\KameraView.exe
+C:\Users\pkrystek\Desktop\Zrodla\Kamera View Zrodla\KameraView 1-3-6\WindowsApplication2\obj\Debug\KameraView.xml
+C:\Users\pkrystek\Desktop\Zrodla\Kamera View Zrodla\KameraView 1-3-6\WindowsApplication2\obj\Debug\KameraView.pdb
+Z:\Zrodla\Kamera View Zrodla\KameraView 1-5-1\WindowsApplication2\bin\Debug\KameraView.exe.config
+Z:\Zrodla\Kamera View Zrodla\KameraView 1-5-1\WindowsApplication2\bin\Debug\KameraView.exe
+Z:\Zrodla\Kamera View Zrodla\KameraView 1-5-1\WindowsApplication2\bin\Debug\KameraView.pdb
+Z:\Zrodla\Kamera View Zrodla\KameraView 1-5-1\WindowsApplication2\bin\Debug\KameraView.xml
+Z:\Zrodla\Kamera View Zrodla\KameraView 1-5-1\WindowsApplication2\bin\Debug\Interop.AXVLC.dll
+Z:\Zrodla\Kamera View Zrodla\KameraView 1-5-1\WindowsApplication2\bin\Debug\AxInterop.AXVLC.dll
+Z:\Zrodla\Kamera View Zrodla\KameraView 1-5-1\WindowsApplication2\obj\Debug\KameraView.vbprojResolveAssemblyReference.cache
+Z:\Zrodla\Kamera View Zrodla\KameraView 1-5-1\WindowsApplication2\obj\Debug\Interop.AXVLC.dll
+Z:\Zrodla\Kamera View Zrodla\KameraView 1-5-1\WindowsApplication2\obj\Debug\AxInterop.AXVLC.dll
+Z:\Zrodla\Kamera View Zrodla\KameraView 1-5-1\WindowsApplication2\obj\Debug\KameraView.vbproj.ResolveComReference.cache
+Z:\Zrodla\Kamera View Zrodla\KameraView 1-5-1\WindowsApplication2\obj\Debug\KameraView.Dysk.resources
+Z:\Zrodla\Kamera View Zrodla\KameraView 1-5-1\WindowsApplication2\obj\Debug\KameraView.Form5.resources
+Z:\Zrodla\Kamera View Zrodla\KameraView 1-5-1\WindowsApplication2\obj\Debug\KameraView.Form1.resources
+Z:\Zrodla\Kamera View Zrodla\KameraView 1-5-1\WindowsApplication2\obj\Debug\KameraView.Resources.resources
+Z:\Zrodla\Kamera View Zrodla\KameraView 1-5-1\WindowsApplication2\obj\Debug\KameraView.vbproj.GenerateResource.Cache
+Z:\Zrodla\Kamera View Zrodla\KameraView 1-5-1\WindowsApplication2\obj\Debug\KameraView.exe
+Z:\Zrodla\Kamera View Zrodla\KameraView 1-5-1\WindowsApplication2\obj\Debug\KameraView.xml
+Z:\Zrodla\Kamera View Zrodla\KameraView 1-5-1\WindowsApplication2\obj\Debug\KameraView.pdb
+C:\Users\pkrystek\Desktop\KameraView 1-5-1\WindowsApplication2\bin\Debug\KameraView.exe.config
+C:\Users\pkrystek\Desktop\KameraView 1-5-1\WindowsApplication2\bin\Debug\KameraView.exe
+C:\Users\pkrystek\Desktop\KameraView 1-5-1\WindowsApplication2\bin\Debug\KameraView.pdb
+C:\Users\pkrystek\Desktop\KameraView 1-5-1\WindowsApplication2\bin\Debug\KameraView.xml
+C:\Users\pkrystek\Desktop\KameraView 1-5-1\WindowsApplication2\bin\Debug\Interop.AXVLC.dll
+C:\Users\pkrystek\Desktop\KameraView 1-5-1\WindowsApplication2\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\pkrystek\Desktop\KameraView 1-5-1\WindowsApplication2\obj\Debug\KameraView.vbprojResolveAssemblyReference.cache
+C:\Users\pkrystek\Desktop\KameraView 1-5-1\WindowsApplication2\obj\Debug\Interop.AXVLC.dll
+C:\Users\pkrystek\Desktop\KameraView 1-5-1\WindowsApplication2\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\pkrystek\Desktop\KameraView 1-5-1\WindowsApplication2\obj\Debug\KameraView.vbproj.ResolveComReference.cache
+C:\Users\pkrystek\Desktop\KameraView 1-5-1\WindowsApplication2\obj\Debug\KameraView.Dysk.resources
+C:\Users\pkrystek\Desktop\KameraView 1-5-1\WindowsApplication2\obj\Debug\KameraView.Form5.resources
+C:\Users\pkrystek\Desktop\KameraView 1-5-1\WindowsApplication2\obj\Debug\KameraView.Form1.resources
+C:\Users\pkrystek\Desktop\KameraView 1-5-1\WindowsApplication2\obj\Debug\KameraView.Resources.resources
+C:\Users\pkrystek\Desktop\KameraView 1-5-1\WindowsApplication2\obj\Debug\KameraView.vbproj.GenerateResource.Cache
+C:\Users\pkrystek\Desktop\KameraView 1-5-1\WindowsApplication2\obj\Debug\KameraView.exe
+C:\Users\pkrystek\Desktop\KameraView 1-5-1\WindowsApplication2\obj\Debug\KameraView.xml
+C:\Users\pkrystek\Desktop\KameraView 1-5-1\WindowsApplication2\obj\Debug\KameraView.pdb
+C:\Users\pkrystek\Desktop\# Do analizy\KameraView 1-5-1\WindowsApplication2\obj\Debug\KameraView.vbprojResolveAssemblyReference.cache
+C:\Users\pkrystek\Desktop\# Do analizy\KameraView 1-5-1\WindowsApplication2\obj\Debug\Interop.AXVLC.dll
+C:\Users\pkrystek\Desktop\# Do analizy\KameraView 1-5-1\WindowsApplication2\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\pkrystek\Desktop\# Do analizy\KameraView 1-5-1\WindowsApplication2\obj\Debug\KameraView.vbproj.ResolveComReference.cache
+C:\Users\pkrystek\Desktop\# Do analizy\KameraView 1-5-1\WindowsApplication2\obj\Debug\KameraView.Dysk.resources
+C:\Users\pkrystek\Desktop\# Do analizy\KameraView 1-5-1\WindowsApplication2\obj\Debug\KameraView.Form5.resources
+C:\Users\pkrystek\Desktop\# Do analizy\KameraView 1-5-1\WindowsApplication2\obj\Debug\KameraView.Form1.resources
+C:\Users\pkrystek\Desktop\# Do analizy\KameraView 1-5-1\WindowsApplication2\obj\Debug\KameraView.Resources.resources
+C:\Users\pkrystek\Desktop\# Do analizy\KameraView 1-5-1\WindowsApplication2\obj\Debug\KameraView.vbproj.GenerateResource.Cache
+C:\Users\pkrystek\Desktop\# Do analizy\KameraView 1-5-1\WindowsApplication2\obj\Debug\KameraView.exe
+C:\Users\pkrystek\Desktop\# Do analizy\KameraView 1-5-1\WindowsApplication2\obj\Debug\KameraView.xml
+C:\Users\pkrystek\Desktop\# Do analizy\KameraView 1-5-1\WindowsApplication2\obj\Debug\KameraView.pdb
+C:\Users\pkrystek\Desktop\# Do analizy\KameraView 1-5-1\WindowsApplication2\bin\Debug\KameraView.exe.config
+C:\Users\pkrystek\Desktop\# Do analizy\KameraView 1-5-1\WindowsApplication2\bin\Debug\KameraView.exe
+C:\Users\pkrystek\Desktop\# Do analizy\KameraView 1-5-1\WindowsApplication2\bin\Debug\KameraView.pdb
+C:\Users\pkrystek\Desktop\# Do analizy\KameraView 1-5-1\WindowsApplication2\bin\Debug\KameraView.xml
+C:\Users\pkrystek\Desktop\# Do analizy\KameraView 1-5-1\WindowsApplication2\bin\Debug\Interop.AXVLC.dll
+C:\Users\pkrystek\Desktop\# Do analizy\KameraView 1-5-1\WindowsApplication2\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\pkrystek\Desktop\# Do analizy\KameraView 1-5-2\WindowsApplication2\obj\Debug\KameraView.vbprojResolveAssemblyReference.cache
+C:\Users\pkrystek\Desktop\# Do analizy\KameraView 1-5-2\WindowsApplication2\obj\Debug\Interop.AXVLC.dll
+C:\Users\pkrystek\Desktop\# Do analizy\KameraView 1-5-2\WindowsApplication2\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\pkrystek\Desktop\# Do analizy\KameraView 1-5-2\WindowsApplication2\obj\Debug\KameraView.vbproj.ResolveComReference.cache
+C:\Users\pkrystek\Desktop\# Do analizy\KameraView 1-5-2\WindowsApplication2\obj\Debug\KameraView.Dysk.resources
+C:\Users\pkrystek\Desktop\# Do analizy\KameraView 1-5-2\WindowsApplication2\obj\Debug\KameraView.Form5.resources
+C:\Users\pkrystek\Desktop\# Do analizy\KameraView 1-5-2\WindowsApplication2\obj\Debug\KameraView.Form1.resources
+C:\Users\pkrystek\Desktop\# Do analizy\KameraView 1-5-2\WindowsApplication2\obj\Debug\KameraView.Resources.resources
+C:\Users\pkrystek\Desktop\# Do analizy\KameraView 1-5-2\WindowsApplication2\obj\Debug\KameraView.vbproj.GenerateResource.Cache
+C:\Users\pkrystek\Desktop\# Do analizy\KameraView 1-5-2\WindowsApplication2\obj\Debug\KameraView.exe
+C:\Users\pkrystek\Desktop\# Do analizy\KameraView 1-5-2\WindowsApplication2\obj\Debug\KameraView.xml
+C:\Users\pkrystek\Desktop\# Do analizy\KameraView 1-5-2\WindowsApplication2\obj\Debug\KameraView.pdb
+C:\Users\pkrystek\Desktop\# Do analizy\KameraView 1-5-2\WindowsApplication2\bin\Debug\KameraView.exe.config
+C:\Users\pkrystek\Desktop\# Do analizy\KameraView 1-5-2\WindowsApplication2\bin\Debug\KameraView.exe
+C:\Users\pkrystek\Desktop\# Do analizy\KameraView 1-5-2\WindowsApplication2\bin\Debug\KameraView.pdb
+C:\Users\pkrystek\Desktop\# Do analizy\KameraView 1-5-2\WindowsApplication2\bin\Debug\KameraView.xml
+C:\Users\pkrystek\Desktop\# Do analizy\KameraView 1-5-2\WindowsApplication2\bin\Debug\Interop.AXVLC.dll
+C:\Users\pkrystek\Desktop\# Do analizy\KameraView 1-5-2\WindowsApplication2\bin\Debug\AxInterop.AXVLC.dll

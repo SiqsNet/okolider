@@ -1,0 +1,11 @@
+c:\users\pkrystek\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+c:\users\pkrystek\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+c:\users\pkrystek\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\KameraView.exe.config
+c:\users\pkrystek\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\KameraView.exe
+c:\users\pkrystek\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\KameraView.pdb
+c:\users\pkrystek\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\KameraView.xml
+c:\users\pkrystek\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\KameraView.Form1.resources
+c:\users\pkrystek\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\KameraView.Resources.resources
+c:\users\pkrystek\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\KameraView.exe
+c:\users\pkrystek\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\KameraView.xml
+c:\users\pkrystek\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\KameraView.pdb
